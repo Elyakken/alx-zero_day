@@ -1,1 +1,1 @@
-this is not an emty readme
+this is not an empty readme
